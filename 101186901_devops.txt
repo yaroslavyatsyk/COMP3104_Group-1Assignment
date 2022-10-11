@@ -1,0 +1,4 @@
+COMP3104
+
+course where we learn deploying our applications and how to workd with git and github
+to be a team playable developer
