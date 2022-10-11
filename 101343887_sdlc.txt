@@ -1,0 +1,1 @@
+In software development life cycle devops plays the critical role, as it allows to avoid unnessary mistakes while developing a software
