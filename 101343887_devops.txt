@@ -1,0 +1,3 @@
+COMP3104
+
+This course allows students to use VCS tools for effective deployment during the development
