@@ -1,1 +1,0 @@
-This course allows students to learn and apply deploy skills in software development.
