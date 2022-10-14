@@ -1,4 +1,4 @@
-#Group #1	
+101343887 - Yaroslav Yatsyk
 
 COMP3104
 ## 101186901 Ostap Sulyk
