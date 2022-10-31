@@ -1,0 +1,4 @@
+COMP3104
+
+This course allows students to use VCS tools for effective deployment during the development
+For beginners usage VCS tools can be confused in case of set up and making pull requests, but both things like time and practice make perfect.
